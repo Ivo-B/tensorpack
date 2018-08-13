@@ -4,7 +4,7 @@
 import sys
 import weakref
 from contextlib import contextmanager
-import multiprocessing as mp
+import multiprocess as mp
 import itertools
 from six.moves import range, zip, queue
 import errno
